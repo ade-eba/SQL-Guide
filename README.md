@@ -3,7 +3,7 @@ Regular updates on SQL topics and learning resources.
 
 💬 Course Recommendations
 
-💬 Case Studies
+💬 [Case Studies](https://github.com/ade-eba/Portfolio-Projects)
 
 💬 Daily Notes
 
