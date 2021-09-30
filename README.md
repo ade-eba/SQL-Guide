@@ -5,14 +5,9 @@ Regular updates on SQL topics and learning resources.
 
 💬 [Case Studies](https://github.com/ade-eba/Portfolio-Projects)
 
-💬 Daily Notes
+💬 [Daily Notes](https://github.com/ade-eba/SQL-Guide/blob/main/DailyNotes.md)
 
-## Recommended Courses:
-### Serious SQL Course 
 
-Powered by: [ Data with Danny](https://www.datawithdanny.com/courses/serious-sql)
-- Learn SQL by doing realistic case studies
-- Here are some case studies I have done as a part of this course :
 
 
 
