@@ -5,8 +5,9 @@ Regular updates on SQL topics and learning resources.
 
 💬 [Daily Notes](https://github.com/ade-eba/SQL-Guide/tree/main/Daily%20Notes)
 
-
 💬 [Case Studies](https://github.com/ade-eba/Portfolio-Projects)
+
+💬 [SQL from Scratch](https://github.com/ade-eba/SQL-Guide/blob/main/SQL%20Basics%20to%20Advanced)
 
 
 
