@@ -4,15 +4,16 @@
 
 :point_right: Click [here](https://www.datawithdanny.com/) to view the course.
 
-### :card_file_box: Table of Contents
-<details>
-<summary>
-Click here to expand!
-</summary>
+### :card_file_box: Table of Contents 
+   
+
+1. Data Exploration 
   
- 1. Data Exploration     
- 2. Select & Sort the data
- 3.  Record Counts & Distinct Values
- 4.  Identifying Duplicate Records
- 5.  Summary Statistics
- 6.  Distribution Functions
+  - Select & Sort the data
+  - Record Counts & Distinct Values
+  - Identifying Duplicate Records
+  - Summary Statistics
+  - Distribution Functions
+  - Health Analytics Mini Case Study
+  
+
