@@ -1,10 +1,6 @@
 
-# Serious SQL :fire:
-This course is a part of Data with Danny: Virtual Data Apprenticeship Program.
 
-Click [here](https://www.datawithdanny.com/) to view the course.
-   
-### :triangular_flag_on_post:Data Exploration
+# :triangular_flag_on_post:Data Exploration
   
   #### Select & Sort Data
   
