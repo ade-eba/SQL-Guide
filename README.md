@@ -7,7 +7,7 @@ Regular updates on SQL topics and learning resources.
 
 💬 [Case Studies](https://github.com/ade-eba/Portfolio-Projects)
 
-💬 [SQL from Scratch](https://github.com/ade-eba/SQL-Guide/blob/main/SQL%20Basics%20to%20Advanced)
+💬 [SQL from Scratch]
 
 
 
